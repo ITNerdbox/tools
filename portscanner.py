@@ -13,3 +13,4 @@ if __name__ == '__main__':
         if(result == 0) :
             print 'Port %d: OPEN' % (i,)
         s.close()
+ 
