@@ -1,7 +1,7 @@
 from socket import * 
 
 if __name__ == '__main__':
-    targetIP = raw_input('Enter host to scan: ')
+    targetIP = "10.0.3.140"
     print 'Starting scan on host ', targetIP
 
     #scan reserved ports
